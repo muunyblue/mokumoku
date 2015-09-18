@@ -1,6 +1,7 @@
 :title: reStructuredText testing
 :tags: れすと
 :date: 2015-09-18 07:34:04
+:modified: 2015-09-18 07:35:41
 :slug: 8d2355364e9a2ba1f82f975414937b43
 
 title
@@ -11,3 +12,30 @@ title
 * s
 * t
 
+code
+----
+
+.. code-block:: rust
+
+ // This code is editable and runnable!
+ fn main() {
+    // A simple integer calculator:
+    // `+` or `-` means add or subtract by 1
+    // `*` or `/` means multiply or divide by 2
+
+    let program = "+ + * - /";
+    let mut accumulator = 0;
+
+    for token in program.chars() {
+        match token {
+            '+' => accumulator += 1,
+            '-' => accumulator -= 1,
+            '*' => accumulator *= 2,
+            '/' => accumulator /= 2,
+            _ => { /* ignore everything else */ }
+        }
+    }
+
+    println!("The program \"{}\" calculates the value {}",
+              program, accumulator);
+ }
