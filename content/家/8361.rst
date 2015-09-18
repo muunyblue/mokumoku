@@ -1,7 +1,7 @@
 :title: reStructuredText testing
 :tags: れすと
 :date: 2015-09-18 07:34:04
-:modified: 2015-09-18 07:56:57
+:modified: 2015-09-18 08:00:32
 :slug: 8d2355364e9a2ba1f82f975414937b43
 
 title
