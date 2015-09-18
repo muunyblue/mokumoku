@@ -22,7 +22,7 @@ AUTHOR_FEED_RSS = None
 GOOGLE_ANALYTICS = "UA-67688469-1"
 
 # About
-DETAILS = ('技術系と、お家と、日記です。')
+DETAILS = (['技術系と、お家と、日記です。'])
 
 CATEGORIES = (('Diary', 'book', '#0bd566'),
               ('Programming', 'console', '#555'),
