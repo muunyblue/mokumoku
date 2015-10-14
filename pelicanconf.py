@@ -57,3 +57,4 @@ MD_EXTENSIONS = ['extra', 'admonition', 'codehilite(css_class=highlight)',
 PLUGIN_PATHS = ['pelican-plugins']
 PLUGINS = ['always_modified', 'pelican_youtube']
 ALWAYS_MODIFIED = True
+GOOGLE_ADSENSE = True
