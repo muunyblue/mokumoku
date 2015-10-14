@@ -51,7 +51,7 @@ SUMMARY_MAX_LENGTH = 10
 
 DISQUS_SITENAME = "mokumoku"
 
-MD_EXTENSIONS = ['extras', 'admonition', 'codehilite(css_class=highlight)',
+MD_EXTENSIONS = ['extra', 'admonition', 'codehilite(css_class=highlight)',
                  'nl2br', 'sane_lists', 'toc', 'del_ins']
 
 PLUGIN_PATHS = ['pelican-plugins']
