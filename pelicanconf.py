@@ -25,7 +25,7 @@ AUTHOR_FEED_RSS = None
 GOOGLE_ANALYTICS = "UA-67688469-1"
 
 # About
-DETAILS = (['プログラマの日記です。'])
+DETAILS = (['趣味でプログラミングをしています。仕事では致し方なくC言語のようなC++を書いています。'])
 
 CATEGORIES = (('Diary', 'book', '#0bd566'),
               ('Programming', 'console', '#555'),

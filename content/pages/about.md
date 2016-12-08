@@ -1,7 +1,9 @@
 Title: About me
 Slug: about_me
 
-趣味でプログラミングをしています。仕事はC言語です。
+趣味でプログラミングをしています。
+
+仕事では致し方なくC言語のようなC++を書いています。
 
 GitHub => [yymm (yymm)](https://github.com/yymm "yymm (yymm)")
 
@@ -10,15 +12,16 @@ Twitter => [@_y_y_m_m_ | Twitter](https://twitter.com/_y_y_m_m_ "ლ雲ლ(@_y_y
 ## 興味
 
 - Rust
-- Vim
-- Golang
+- Vim/Neovim/Nyaovim
 - Python
+- Golang
 - Haskell
+- Javascript(CoffeeScript/TypeScript/Babel/React)
 - WebGL
 - ErgoDox
-- 弓道
-- ボルダリング
-- ポケモン
+- Kyudo
+- Bouldering
+- Pokemon
 
 ## このブログについて
 
