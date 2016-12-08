@@ -25,7 +25,7 @@ AUTHOR_FEED_RSS = None
 GOOGLE_ANALYTICS = "UA-67688469-1"
 
 # About
-DETAILS = (['技術系と、お家と、日記です。'])
+DETAILS = (['プログラマの日記です。'])
 
 CATEGORIES = (('Diary', 'book', '#0bd566'),
               ('Programming', 'console', '#555'),
@@ -39,14 +39,14 @@ CATEGORIES = (('Diary', 'book', '#0bd566'),
 DEFAULT_PAGINATION = 5
 
 # SNS share
-TWITTER_USERNAME = 'yymm6666'
+TWITTER_USERNAME = '_y_y_m_m_'
 HATENA_SHARE = True
 FACEBOOK_APPID = '387525661451951'
 #GOOGLEPLUS_SHARE = True
 #POCKET_SHARE = True
 #TUMBLR_SHARE = True
 
-SOCIAL = [('Twitter', 'https://twitter.com/yymm6666'),
+SOCIAL = [('Twitter', 'https://twitter.com/_y_y_m_m_'),
           ('Github', 'https://github.com/yymm'),
           ('Bitbucket', 'https://bitbucket.org/yymm')]
 
