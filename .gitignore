@@ -3,3 +3,4 @@ __pycache__/
 output/
 *.pyc
 pelican-plugins/
+draft/
