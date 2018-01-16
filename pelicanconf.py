@@ -72,3 +72,5 @@ PLUGIN_PATHS = ['pelican-plugins']
 PLUGINS = ['always_modified']
 ALWAYS_MODIFIED = True
 GOOGLE_ADSENSE = True
+
+STATIC_PATH = ['images']
