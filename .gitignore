@@ -4,3 +4,4 @@ output/
 *.pyc
 pelican-plugins/
 draft/
+.sass-cache
