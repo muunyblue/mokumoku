@@ -54,19 +54,22 @@ SUMMARY_MAX_LENGTH = 10
 
 DISQUS_SITENAME = "mokumoku"
 
-MARKDOWN = {
-    'extension_configs': {
-        'extra': {},
-        'admonition': {},
-        'codehilite': {'css_class': 'highlight'},
-        'nl2br': {},
-        'sane_lists': {},
-        'toc': {},
-        'del_ins': {},
-        'embedly': {},
-    },
-    'output_format': 'html5',
-}
+# MARKDOWN = {
+#     'extension_configs': {
+#         'extra': {},
+#         'admonition': {},
+#         'codehilite': {'css_class': 'highlight'},
+#         'nl2br': {},
+#         'sane_lists': {},
+#         'toc': {},
+#         'mdx_del_ins': {},
+#         'mdx_embedly': {},
+#     },
+#     'output_format': 'html5',
+# }
+
+MD_EXTENSIONS = ['extra', 'admonition', 'codehilite(css_class=highlight)',
+                 'nl2br', 'sane_lists', 'toc', 'del_ins', 'embedly']
 
 PLUGIN_PATHS = ['pelican-plugins']
 PLUGINS = ['always_modified']
