@@ -1,8 +1,9 @@
 # Dependency
 
 ```
-pip install pelican
-pip install Markdown
+pip install pelican=3.4.0
+pip install Markdown=2.6.11
+pip install mdx_del_ins
 pip install mdx_embedly
 pip install ghp-import
 # plubins
